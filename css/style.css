@@ -1,0 +1,74 @@
+.intro{font-size: 30px;
+	color: black;
+	background-color: lightblue;
+}
+
+#fav{
+	font-family: cursive;
+
+
+}
+
+#hobby{
+	color: magenta;
+
+}
+*{
+ word-break: 3px;
+}
+p.intro{
+	background-color: cadetblue;
+}
+h2{
+	background-color: yellowgreen;
+}
+.div{
+  font-family: cursive;
+}
+p ~ ul {
+	font-size: 25px;
+	color: teal;
+
+
+}
+a[target="_blank"] {
+  background-color: darkgray;
+  font-size: 22px}
+
+ a:active {
+  background-color: floralwhite;}
+
+ input:default {
+  box-shadow: 0 0 1px 1px orangered;
+}
+p:first-child {
+  background-color: powderblue;
+}
+p::first-letter {
+  font-size: 200%;
+  color: #8A2BE2;
+}
+a:hover {
+  background-color: lightslategray;
+}
+p:last-of-type {
+  color: darkred;
+
+}
+::marker {
+  color: red;
+}
+li:nth-child(2) {
+  background: lightskyblue;
+}
+
+
+:nth-child(3) {
+  background: magenta;
+
+}
+::placeholder {
+  color: lightskyblue;
+
+  
+}
